@@ -37,11 +37,10 @@ Acceder a la page web avec le lien donner quand l'action est terminer
 Lors de la creation de la web app Azure on la conncete au repository Git.\
 Azure push alors un workflow dans le repository, que l'on va utiliser ensuite.\
 Dans ce workflow il est dit qu'a chaque fois que l'on fait un "push" dans le repository il ce lance.\
-Dans quand on moifie le fichier app.py et que l'on push sa nouvelle version l'Azure web app ce met a jour avec le modification prise en compte.\
+Dans quand on moifie le fichier app.py et que l'on push sa nouvelle version l'Azure web app ce met a jour avec le modification prise en compte.
 
 ## Deroulement du workflow
 
 Dans un premier temps on vient build app.py qui est une app flask, qui nous retourne une page web.\
 Ensuite on vient tester notre app.py avec test_app.py, pour verifier que tous fonctionne.\
-pour finir si tous est correctment seter on build la web app.\
-
+pour finir si tous est correctment seter on build la web app.
