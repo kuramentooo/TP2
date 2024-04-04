@@ -1,4 +1,4 @@
-#  pipeline de CI/CD
+#  Pipeline de CI/CD
 
 ## Objectif
 
