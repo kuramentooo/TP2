@@ -2,7 +2,7 @@
 
 ## Objectif
 
-
+Ce TP a pour but d'automatiser la mise a jour d'une Web App Azure.
 
 ## Mise en place
 
