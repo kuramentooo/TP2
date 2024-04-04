@@ -37,7 +37,7 @@ Acceder a la page web avec le lien donner quand l'action est terminer
 Lors de la création du web app Azure on la connecte au repository Git.\
 Azure push alors un workflow dans le repository, que l'on va utiliser ensuite.\
 Dans ce workflow il est dit qu'a chaque fois que l'on fait un "push" dans le repository il se lance.\
-Dans que l'on modifie le fichier app.py et que l'a été sa nouvelle version l'Azure web app se met à jour avec la modification prise en compte.
+Des lors que l'on modifie le fichier app.py et que l'on push, l'Azure web app se met à jour avec la modification prise en compte.
 
 ## Deroulement du workflow
 
